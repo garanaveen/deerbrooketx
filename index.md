@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# FAQs on Deerbrooke community in Austin, TX
+FAQs for Deerbrooke Community in Austin, TX
+   * [New Home Checklist](./newhomechecklist.md)
+   * Water Softner - The city water is very hard and deinitely need to install water softner.
+   * [Home's tax assessment value](https://search.wcad.org)
+   * [HomeStead exemption](https://search.wcad.org)
+   * [Recycling/Waste pickup schedule - pdf](https://www.leandertx.gov/sites/default/files/fileattachments/utilities/page/459/acdi_collections_2022.pdf)
+   * [RecyclingInfo](https://alittlemore.green/myths-rumors-confusion-recycling-in-austin/) (What exactly goes in to you recycling bin? - Austin specific)
+   * [Water Conservation and Drought Contingency Plan](https://www.leandertx.gov/waterplan) (How frequently can I sprinkle my lawn?)
+   * [Vehicle Registration/Titles](./countyoffice.md)
+   * [Drivers License](./countyoffice.md)
+   * [Vehicle Inspection](./vehicleinspections.md)
 
-You can use the [editor on GitHub](https://github.com/garanaveen/deerbrooketx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Contribution
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to send me any info that should be here and I will add it.
 
-### Markdown
+Even better would to make changes yourself and send me a merge request.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garanaveen/deerbrooketx/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Last edited: Wed 16 Mar 2022 03:19:08 PM CDT
