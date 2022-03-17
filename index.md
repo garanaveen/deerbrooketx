@@ -13,11 +13,11 @@ FAQs for Deerbrooke Community in Austin, TX
    * [Drivers License](./countyoffice.md)
    * [Vehicle Inspection](./vehicleinspections.md)
 
-### Contribution
+### How to Contribute?
 
 Feel free to send me any info that should be here and I will add it.
 
-Even better would to make changes yourself and send me a merge request.
+Even better would to fork my repo and make changes yourself and send me a merge request.
 
 
 ---

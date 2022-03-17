@@ -1,4 +1,12 @@
 Make "Last edited:" automatically populate based on the pushed time stamp.
 Write more documentation how to do Homestead section.
 Builder specific information.
+Add deerbrooketx.com official website bookmark.
+Add bookmarks for Social media - Community Facebook group, Community Buy/Sell facebook group.
+How to get pool access.
+Add HOA info.
+
+Trail - Exact location
+https://goo.gl/maps/HGXCL4tScfg5urFv9
+https://goo.gl/maps/tF9oMg1DSoVmEsK37
 
