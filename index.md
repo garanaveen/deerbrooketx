@@ -3,7 +3,7 @@ FAQs for Deerbrooke Community in Austin, TX
    * [New Home Checklist](./newhomechecklist.md)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
    * [Home's tax assessment value](https://search.wcad.org)
-   * [HomeStead exemption](https://search.wcad.org)
+   * [HomeStead exemption](./homesteadexemption.md)
    * Waste Collection - Solid waste is collected every monday and recycling is collected every other monday.
        * [Pickup Schedule - pdf](https://www.leandertx.gov/sites/default/files/fileattachments/utilities/page/459/acdi_collections_2022.pdf)
        * [RecyclingInfo](https://alittlemore.green/myths-rumors-confusion-recycling-in-austin/) (What exactly goes in to you recycling bin? - Austin specific)
@@ -31,4 +31,4 @@ Even better would to fork my repo and make changes yourself and send me a merge 
 
 
 ---
-Last edited: Thu 17 Mar 2022 12:20:20 PM CDT
+Last edited: Fri 18 Mar 2022 05:36:35 PM CDT
