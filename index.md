@@ -1,5 +1,5 @@
 # Deerbrooke - FAQs on Deerbrooke community in Austin, TX
-FAQs for Deerbrooke Community in Austin, TX
+FAQs for Deerbrooke Community in Leander, TX
    * [New Home Checklist](./newhomechecklist.md)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
    * [Home's tax assessment value](https://search.wcad.org)
@@ -23,12 +23,11 @@ FAQs for Deerbrooke Community in Austin, TX
 
    
 
-### How to Contribute?
+### [How to Contribute?](./contributing.md)
 
 Feel free to send me any info that should be here and I will add it.
 
-Even better would be to fork my repo and make changes yourself and send me a merge/pull request.
-
+Even better would be to make the changes yourself and create a pull request. [HowTo](https://www.dataschool.io/how-to-contribute-on-github/)
 
 ---
-Last edited: Fri 18 Mar 2022 05:36:35 PM CDT
+Last edited: Fri 18 Mar 2022 06:34:11 PM CDT

@@ -4,3 +4,12 @@ Builder specific information.
 Add bookmarks for Social media - Community Facebook group, Community Buy/Sell facebook group.
 Near by restaurants
 
+-----------
+_config.yml
+title: Deerbrooke-Home
+logo: /assets/img/deerbrooketx-logo.png
+description: Deerbrooke Community Info - Leander, TX
+-----------
+
+Security Cameras : All the options to make it easy to find products. (Google/Amazon/?)
+
