@@ -27,7 +27,7 @@ FAQs for Deerbrooke Community in Austin, TX
 
 Feel free to send me any info that should be here and I will add it.
 
-Even better would to fork my repo and make changes yourself and send me a merge request.
+Even better would be to fork my repo and make changes yourself and send me a merge/pull request.
 
 
 ---
