@@ -1,6 +1,7 @@
 # Deerbrooke - FAQs on Deerbrooke community in Austin, TX
 FAQs for Deerbrooke Community in Leander, TX
    * [New Home Checklist](./newhomechecklist.md)
+      * [Smart Home](./smarthome.md)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
    * [Home's tax assessment value](https://search.wcad.org)
    * [HomeStead exemption](./homesteadexemption.md)
@@ -20,8 +21,6 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Utilities](https://deerbrooketx.com/wp-content/uploads/2021/03/Deerbrooke-Resident-Information.pdf)
       * [Walking Trail](./walkingtrail.md)
 
-
-   
 
 ### [How to Contribute?](./contributing.md)
 
