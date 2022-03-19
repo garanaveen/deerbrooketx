@@ -1,4 +1,4 @@
-# Deerbrooke - FAQs on Deerbrooke community in Austin, TX
+# Deerbrooke - FAQs on Deerbrooke community in Leander, TX
 FAQs for Deerbrooke Community in Leander, TX
    * [New Home Checklist](./newhomechecklist.md)
       * [Smart Home](./smarthome.md)
