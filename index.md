@@ -28,5 +28,3 @@ Feel free to send me any info that should be here and I will add it.
 
 Even better would be to make the changes yourself and create a pull request. [HowTo](https://www.dataschool.io/how-to-contribute-on-github/)
 
----
-Last edited: Fri 18 Mar 2022 06:34:11 PM CDT

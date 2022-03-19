@@ -1,13 +1,4 @@
-Make "Last edited:" automatically populate based on the pushed time stamp.
-Write more documentation how to do Homestead section.
+Write more documentation on how to do Homestead exemption.
 Builder specific information.
 Add bookmarks for Social media - Community Facebook group, Community Buy/Sell facebook group.
-Near by restaurants
-
------------
-_config.yml
-title: Deerbrooke-Home
-logo: /assets/img/deerbrooketx-logo.png
-description: Deerbrooke Community Info - Leander, TX
------------
-
+Add nearby daycares, pharmacies, groceries, restaurants.
