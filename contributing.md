@@ -1,7 +1,6 @@
+I have choosen markdown to make it super easy to adding info as you would like without having to know all the technical things.
 
-I have choosen markdown to make it super easy to adding info as you would like without have to know all the technical things.
 I have tried to keep everything text based. No programming! I would appreciate if you could keep it that way.
-
 
 If you think the info being added deserves a separate file, go ahead and create a new *.md file and link it to index.md file as needed.
 

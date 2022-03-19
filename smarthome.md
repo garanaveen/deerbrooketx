@@ -27,3 +27,5 @@ First step is to figure out which echosystem you want to be in - Google or Amazo
 
 -----------
 You have more/better info? Feel free to reach out.
+
+TODO : Make links work on this page!
