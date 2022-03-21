@@ -5,27 +5,28 @@ First step is to figure out which echosystem you want to be in - Google or Amazo
 * Few points to keep in mind - 
   - Do you need flood lights?
   - What is the monthly subscription charges?
-* Nest Cam (Google echosystem) : https://store.google.com/product/nest_cam_battery?hl=en-US
-* Ring (Amazon echosystem) : https://ring.com/collections/outdoor-security-cameras
-* Eufy : https://us.eufylife.com/collections/security
+* [Nest Cam](https://store.google.com/product/nest_cam_battery?hl=en-US) (Google echosystem)
+* [Ring](https://trello.com/c/pOEZiZCh/1-prepay-irs-4k-in-march) (Amazon echosystem)
+* [Eufy](https://us.eufylife.com/collections/security)
 
 ## Doorbells
 * Few points to keep in mind - 
-  - Is it compatible with your existing chime? 
+  - Is it compatible with your existing chime? (i.e. will my already installed chime ring on pressing the doorbell).
   - Is it wired of batter operated?
-* Ring (Amazon echosystem) : https://ring.com/doorbell-cameras
-* Nest Doorbell (Google echosystem) : https://store.google.com/product/nest_doorbell_wired?hl=en-US
+* [Ring](https://ring.com/doorbell-cameras) (Amazon echosystem)
+* [Nest Doorbell](https://store.google.com/product/nest_doorbell_wired?hl=en-US) (Google echosystem)
 
 ## Smart doorlocks
-* Yale Lock (Google echosystem): https://store.google.com/us/config/nest_x_yale_lock?hl=en-US
-* Eufy : https://us.eufylife.com/products/t8510
-* Ring? : TODO
+* [Yale Lock](https://store.google.com/us/config/nest_x_yale_lock?hl=en-US) (Google echosystem)
+* [Eufy](https://us.eufylife.com/products/t8510)
+* Ring : TODO
 
-## Window sensors
-* Ring (Amazon echosystem): https://ring.com/products/alarm-window-door-contact-sensor-v2
+## Window/Contact sensors
+* [Ring](https://ring.com/products/alarm-window-door-contact-sensor-v2) (Amazon echosystem)
 * TODO : Other options?
 
 -----------
 You have more/better info? Feel free to reach out.
 
-TODO : Make links work on this page!
+PS : Work in progress. Feel free to [contribute](/contributing.md).
+
