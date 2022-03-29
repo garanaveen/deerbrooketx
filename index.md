@@ -21,7 +21,8 @@ FAQs for Deerbrooke Community in Leander, TX
    * Community Info
       * [Community official website](https://deerbrooketx.com/)
       * [Utilities](https://deerbrooketx.com/wp-content/uploads/2021/03/Deerbrooke-Resident-Information.pdf)
-      * [Internet](./utilities/internet.md)
+      * [Internet](./community/internet.md)
+      * [Social Media](./community/socialmedia.md)
       * [Walking Trail](./walkingtrail.md)
       * [Notary services](./notary.md)
 

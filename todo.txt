@@ -3,4 +3,3 @@ Builder specific information.
 Add bookmarks for Social media - Community Facebook group, Community Buy/Sell facebook group.
 Add nearby daycares, pharmacies, groceries, restaurants.
 
-Some of the models that are used by members in the community that are know to be compatible with Suddenlink. Take this information at your own risk.
