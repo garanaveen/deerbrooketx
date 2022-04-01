@@ -9,3 +9,5 @@ This is a fairly simple process and can be done online.
  * Click on "HS Exemption" link.
  * Fill out the application and submit it.
  * In about a couple of weeks, make sure you see "Exemption : Homestead" on your property page for the year 2022(dropdown).
+
+

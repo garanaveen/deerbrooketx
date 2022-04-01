@@ -5,7 +5,7 @@ FAQs for Deerbrooke Community in Leander, TX
    * [Home Maintenence]
       * [WaterLeak](./homemaintenance/waterleak.md)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
-   * [Home's tax assessment value](https://search.wcad.org)
+   * [Home's tax assessment value](./homeassessment.md)
    * [HomeStead exemption](./homesteadexemption.md)
    * Waste Collection - Solid waste is collected every monday and recycling is collected every other monday.
        * [Pickup Schedule - pdf](https://www.leandertx.gov/sites/default/files/fileattachments/utilities/page/459/acdi_collections_2022.pdf)
