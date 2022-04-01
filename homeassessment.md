@@ -1,7 +1,7 @@
 Know your property tax - [wcad](https://search.wcad.org)
 
 Q : How to check your home assessment for property taxes?
-Visit https://search.wcad.org and search for your address.
+Visit [https://search.wcad.org](https://search.wcad.org) and search for your address.
 You should see 2022 Market Value on the top right corner.
 
 
