@@ -8,6 +8,8 @@ First step is to figure out which echosystem you want to be in - Google or Amazo
 * [Nest Cam](https://store.google.com/product/nest_cam_battery?hl=en-US) (Google echosystem)
 * [Ring](https://trello.com/c/pOEZiZCh/1-prepay-irs-4k-in-march) (Amazon echosystem)
 * [Eufy](https://us.eufylife.com/collections/security)
+* [Blink](https://www.amazon.com/dp/B086DKGCFP/ref=cm_sw_r_cp_api_i_35PKS323BGGCT4AHGTJ4?_encoding=UTF8&psc=1)
+  * [Storage accessory](https://www.amazon.com/dp/B084SD48DM?ref=ppx_pop_mob_ap_share)
 
 ## Doorbells
 * Few points to keep in mind - 
