@@ -11,4 +11,6 @@ Unfortunately, if you closed in 2021 or 2022, you aren't protected and you are l
 
 
 Q : What can I do to reduce the property taxes?
-A : You can protest online yourself or go with a company which does on your behalf.
+A : You can protest online yourself or go with a company which does on your behalf. Most of these companies charge a %age fee based on how much your savings are if they succeed to reduce the property taxes. So, if they charge 50% of savings and you end up savings $1000 after they represent you, they charge $500. Be aware of this fact before signing up with anyone.
+
+
