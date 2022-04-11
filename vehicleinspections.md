@@ -1,17 +1,19 @@
-For any vehicle inspection, you need to have proof of insurance (even digital copy is fine) and Drivers License to be presented.
+In texas, to be able to renew your car registration, you need to get your car inspected every year.
 
+ 
+For any vehicle inspection, you need to have proof of insurance (even digital copy is fine) and Drivers License needs to be presented.
 
 Places to get your vehicle inspected which is a requirement for initial vehicle registration and renewals.
 ___
-### Sticker Stop - 12 minutes drive
+### Sticker Stop - 12 minutes drive (If weekends is the only option, best if you can make it at 8am. Least waiting time).
 
-2101 US-183, Leander, TX 78641 [Google Maps](https://goo.gl/maps/kYt9iEKpB8WG53XD7)
+Highway 183 (Leander): 2101 S Hwy 183, Leander TX 78641 [Google Maps](https://goo.gl/maps/kYt9iEKpB8WG53XD7)
 
 https://stickerstop.com/
 
-Weekends - Closed
-
-Weekdays - 8AM to 4PM
+Sat: 8:00am-4:00pm
+Sun: Closed
+Weekdays - 8AM to 6PM
 
 No appointments. Walkins only.
 ___
