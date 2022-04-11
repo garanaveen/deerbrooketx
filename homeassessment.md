@@ -14,3 +14,5 @@ Q : What can I do to reduce the property taxes?
 A : You can protest online yourself or go with a company which does on your behalf. Most of these companies charge a %age fee based on how much your savings are if they succeed to reduce the property taxes. So, if they charge 50% of savings and you end up savings $1000 after they represent you, they charge $500. Be aware of this fact before signing up with anyone.
 
 
+Q : I closed my home in 2021 and the assessment is more than my purchase price. What are my options?
+A : For those of you who purchased between 1JAN2021 to 31MAR2022, you have an option to do a express review. Check this [wcad-express-review](https://www.wcad.org/express-review-for-new-property-purchases) link out. The deadline for this is 11MAY2022.
