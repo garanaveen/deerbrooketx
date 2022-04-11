@@ -4,7 +4,7 @@ This is a fairly simple process and can be done online.
 [File for HomeStead exemption](https://search.wcad.org)
 
 
-## Outline the exact procedure,
+## Outline of the exact procedure
  * Search for your property.
  * Click on "HS Exemption" link.
  * Fill out the application and submit it.
