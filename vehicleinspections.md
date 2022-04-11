@@ -4,6 +4,7 @@ In texas, to be able to renew your car registration, you need to get your car in
 For any vehicle inspection, you need to have proof of insurance (even digital copy is fine) and Drivers License needs to be presented.
 
 Places to get your vehicle inspected which is a requirement for initial vehicle registration and renewals.
+
 ___
 ### Sticker Stop - 12 minutes drive (If weekends is the only option, best if you can make it at 8am. Least waiting time).
 
@@ -16,6 +17,7 @@ Sun: Closed
 Weekdays - 8AM to 6PM
 
 No appointments. Walkins only.
+
 ___
 ### Lamb's Tire & Automotive - 12 minutes drive
 
