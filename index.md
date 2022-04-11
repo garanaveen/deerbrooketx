@@ -37,3 +37,8 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 -----------
 
 Last updated : Sun 03 Apr 2022 01:35:33 PM CDT
+
+Recent changes log,
+
+ * Mon 11 Apr 2022 02:41:00 PM CDT : Added Home appraisal (./homeassessment.md) and Homestead exemption (./homesteadexemption.md) details.
+
