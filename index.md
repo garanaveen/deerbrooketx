@@ -37,8 +37,6 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 -----------
 
-Last updated : Mon 11 Apr 2022 03:10:13 PM CDT
-
 Recent changes log,
 
  * Tue 12 Apr 2022 : Added [Online Protest and Express review](./protestonline.md) details.
