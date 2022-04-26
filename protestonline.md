@@ -1,4 +1,4 @@
-This information is applicable to homeowners who bought their property recently (2021/2022)
+This information is applicable to homeowners who bought their property recently (between 1Jan2021 and 31Mar2022)
  * If the assessment is very high compared to purchase price you can do [express-review](https://www.wcad.org/express-review-for-new-property-purchases) with wcad.
    - When you submit for express review, they will adjust the assessment based on purchase price.
    - The next step is to accept their assessment. If you do this, you are basically agreeing to their assessment and can't protest online.
