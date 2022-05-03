@@ -22,6 +22,8 @@ Since it will be your primary home as of 1JAN2022,you can file HomeStead exempti
 
 **A:** Effective 1JAN2022, a big change to Texas homestead exemptions was made.
 Even if it wasn't your primary home as of 1JAN2022, you can still file HomeStead exemption for the year 2022 as long as it is your primary home in 2022.
-Check this [link](https://www.briggsfreeman.com/blog/2022/01/05/the-new-way-that-new-homeowners-can-save-on-property-taxes)
-However the 10% property tax cap doesn't become effective in 2023 due to this rule change. You still need to wait until 2024 for that to be effective. Other benefits like $25k on "Leander ISD" taxes are effective immediately. I am not an expert on this subject. So, do your own research.
+Check this [link](https://www.briggsfreeman.com/blog/2022/01/05/the-new-way-that-new-homeowners-can-save-on-property-taxes).
+
+Although, benefits like $25k on "Leander ISD" taxes are effective immediately, the 10% property tax increase cap doesn't become effective in 2023 due to this rule change. You still need to wait until 2024 for that to be effective.
+I am not an expert on this subject. So, do your own research before making any decisions based on this information.
 
