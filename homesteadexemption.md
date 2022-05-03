@@ -1,15 +1,14 @@
+![Homestead Exemption](/assets/img/homestead-exemption.jpg)
 If this was your primary residence as of 1JAN, be sure to file for HomeStead exemption before the deadline (30Apr) to protect yourself from tax increases.
 This is a fairly simple process and can be done online.
 
 [File for HomeStead exemption](https://search.wcad.org)
-
 
 ## Outline of the exact procedure
  * Search for your property.
  * Click on "HS Exemption" link.
  * Fill out the application and submit it.
  * In about a couple of weeks, make sure you see "Exemption : Homestead" on your property page for the year 2022(dropdown).
-
 
 FAQs,
 
@@ -24,4 +23,5 @@ Since it will be your primary home as of 1JAN2022,you can file HomeStead exempti
 **A:** Effective 1JAN2022, a big change to Texas homestead exemptions was made.
 Even if it wasn't your primary home as of 1JAN2022, you can still file HomeStead exemption for the year 2022 as long as it is your primary home in 2022.
 Check this [link](https://www.briggsfreeman.com/blog/2022/01/05/the-new-way-that-new-homeowners-can-save-on-property-taxes)
+However the 10% property tax cap doesn't become effective in 2023 due to this rule change. You still need to wait until 2024 for that to be effective. Other benefits like $25k on "Leander ISD" taxes are effective immediately. I am not an expert on this subject. So, do your own research.
 
