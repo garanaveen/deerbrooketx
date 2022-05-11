@@ -40,6 +40,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Wed 11 May 2022 : Added [water leak](./homemaintenance/waterleak.md) details and how to get a refund for high waterbill due to a leak.
  * Fri 29 Apr 2022 : Added Atmos Gas Leak emergency phone number on the Home Page under Utilities.
  * Tue 12 Apr 2022 : Added [Online Protest and Express review](./protestonline.md) details.
  * Mon 11 Apr 2022 : Added Home appraisal [Home tax assessment](./homeassessment.md) and Homestead exemption [Homestead exemption](./homesteadexemption.md) details.
