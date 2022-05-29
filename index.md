@@ -27,6 +27,7 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Social Media](./community/socialmedia.md)
       * [Walking Trail](./walkingtrail.md)
       * [Notary services](./notary.md)
+   * [New Resident Checklist](./newresidentchecklist.md)
 
 
 
