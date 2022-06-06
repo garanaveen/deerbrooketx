@@ -33,7 +33,7 @@ FAQs for Deerbrooke Community in Leander, TX
 
 ### [How to Contribute?](./contributing.md)
 
-Feel free to send me any info that should be here and I will add it.
+Feel free to send me any info that is useful to the community and I will add it here.
 
 Even better would be to make the changes yourself and create a pull request. [HowTo](https://www.dataschool.io/how-to-contribute-on-github/)
 
