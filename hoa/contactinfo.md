@@ -10,8 +10,7 @@ info@alamomg.com
 M - F: 8am - 5pm
 ```
 
-* Community Manager - Randy Wells - rwells@alamomg.com (Old? - Kayla Burgess - kburgess@alamomg.com)
-
+* Community Manager - Randy Wells - rwells@alamomg.com
 
 * Assistant Community Manager - Alicia Moore - amoore@alamomg.com
 
