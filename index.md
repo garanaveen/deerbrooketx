@@ -28,6 +28,7 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Walking Trail](./walkingtrail.md)
       * [Notary services](./notary.md)
    * [New Resident Checklist](./newresidentchecklist.md)
+   * [Snakes](./snakes.md)
 
 
 
@@ -41,6 +42,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Mon 20 Jun 2022 : Added some bookmarks for identifing and relocating snakes. (./snakes.md)
  * Wed 11 May 2022 : Added [water leak](./homemaintenance/waterleak.md) details and how to get a refund for high waterbill due to a leak.
  * Fri 29 Apr 2022 : Added Atmos Gas Leak emergency phone number on the Home Page under Utilities.
  * Tue 12 Apr 2022 : Added [Online Protest and Express review](./protestonline.md) details.
