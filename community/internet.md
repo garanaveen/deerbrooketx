@@ -15,10 +15,9 @@ Some of the models that are used by members in the community that are know to be
 
 ATT Fiber will probably become available some time soon.
 
-As of MAR2022, some people had luck with ATT. Call and ask.
+As of JUN2022, some areas in the community have ATT fiber available. Call and ask.
 
 https://www.att.com/internet/
-
 
 
 
