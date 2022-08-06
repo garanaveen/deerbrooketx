@@ -10,6 +10,7 @@ First step is to figure out which echosystem you want to be in - Google or Amazo
 * [Eufy](https://us.eufylife.com/collections/security)
 * [Blink](https://www.amazon.com/dp/B086DKGCFP/ref=cm_sw_r_cp_api_i_35PKS323BGGCT4AHGTJ4?_encoding=UTF8&psc=1)
   * [Storage accessory](https://www.amazon.com/dp/B084SD48DM?ref=ppx_pop_mob_ap_share)
+* [Lorex](https://www.lorex.com/collections/security-cameras) This has local storage support. No subscriptions.
 
 ## Doorbells
 * Few points to keep in mind - 
@@ -17,6 +18,7 @@ First step is to figure out which echosystem you want to be in - Google or Amazo
   - Is it wired of batter operated?
 * [Ring](https://ring.com/doorbell-cameras) (Amazon echosystem)
 * [Nest Doorbell](https://store.google.com/product/nest_doorbell_wired?hl=en-US) (Google echosystem)
+* [Lorex Video Doorbell](https://www.lorex.com/collections/video-doorbells)
 
 ## Smart doorlocks
 * [Yale Lock](https://store.google.com/us/config/nest_x_yale_lock?hl=en-US) (Google echosystem)
