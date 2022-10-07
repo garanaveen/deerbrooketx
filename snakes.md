@@ -50,6 +50,8 @@ Lindsay Davis
 Other helpful bookmarks,
 https://tpwd.texas.gov/education/hunter-education/online-course/preparation-and-survival/snakes
 
+Link to other snake relocation finder website,
+https://freesnakerelocation.org/
 
 This page is Work in Progress. If you have other tips on how to deal with such a situation, feel free to let me know so that I can include the info here.
 
