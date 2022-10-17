@@ -10,9 +10,8 @@ info@alamomg.com
 M - F: 8am - 5pm
 ```
 
-* Community Manager - Randy Wells - rwells@alamomg.com
+* Community Manager - David Mercado - dmercado@alamomg.com
 
 * Assistant Community Manager - Alicia Moore - amoore@alamomg.com
 
-* Phone : 512-877-7770
-
+* Phone : 210-485-4088
