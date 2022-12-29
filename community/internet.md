@@ -1,6 +1,6 @@
-At this point in Phase2, Suddenlink seems to be the only internet service provider. Be sure to signup for their $200 promotion. They might send you a giftcard in the 5th month after signup and might need followups.
+At this point in Phase2, Optimum (formally known as Suddenlink) seems to be the only internet service provider. AT&T fiber is slowly made available. You can [check if the availability](https://www.att.com/internet/) by providing the address on att fiber portal.
 
-A lot of people seem to have disconnective issues with Suddenlink when you use the modem provided by them. Most have success when you buy the modem yourself.
+A lot of people seem to have disconnective issues with Optimum when you use the modem provided by them. Most have success when you buy the modem yourself.
 
 ## Compatible modems,
 Some of the models that are used by members in the community that are know to be compatible with Suddenlink. Take this information at your own risk.
@@ -13,11 +13,6 @@ Some of the models that are used by members in the community that are know to be
 
 ========================================================
 
-ATT Fiber will probably become available some time soon.
-
-As of JUN2022, some areas in the community have ATT fiber available. Call and ask.
-
-https://www.att.com/internet/
 
 
 

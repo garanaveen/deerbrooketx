@@ -43,6 +43,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Thu 29 Dec 2022 : AT&T Fiber internet is available now for some areas.
  * Thu 06 Oct 2022 : Free Snake relocation service bookmark added. [Snakes](./snakes.md)
  * Mon 20 Jun 2022 : Added some bookmarks for identifing and relocating snakes. [Snakes](./snakes.md)
  * Wed 11 May 2022 : Added [water leak](./homemaintenance/waterleak.md) details and how to get a refund for high waterbill due to a leak.
