@@ -4,6 +4,8 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Smart Home](./smarthome.md)
    * [Home Maintenence]
       * [WaterLeak](./homemaintenance/waterleak.md)
+      * [HVAC](./homemaintenance/hvac.md)
+      * [Builder based emergency contacts](./homemaintenance/builder-emergency-contacts.md)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
    * [Home's tax assessment](./homeassessment.md)
       * [Online Protest and Express review](./protestonline.md)
@@ -43,6 +45,8 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Mon 27 Feb 2023 : Gehan emergency contacts added
+ * Wed 08 Feb 2023 : HVAC regular cleaning
  * Thu 29 Dec 2022 : AT&T Fiber internet is available now for some areas.
  * Thu 06 Oct 2022 : Free Snake relocation service bookmark added. [Snakes](./snakes.md)
  * Mon 20 Jun 2022 : Added some bookmarks for identifing and relocating snakes. [Snakes](./snakes.md)
