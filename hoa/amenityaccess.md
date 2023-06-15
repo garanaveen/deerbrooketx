@@ -1,4 +1,5 @@
-Contact HOA [Community Manager](./contactinfo.md) for a fob. You can either pick it up from their office or they can ship it to you for $25 I believe.
+You can order a fob for Gym and Pool access from [here](https://www.alamomgpayments.com/product/pool-access-card/). $25 for local pickup and $30 for shipping and handling. It might take a while for shipping option.
+Contact HOA [Community Manager](./contactinfo.md) for latest information.
 
 * Pool is closed during winter. (Opens on 18MAR2022)
 * The pool hours are daily from 6am to 8pm.
