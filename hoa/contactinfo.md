@@ -13,7 +13,7 @@ M - F: 8am - 5pm
 
 * Community Manager - Ronn Perez - rperez@alamomg.com (as of JUN2023)
 
-* Assistant Community Manager - Alicia Moore - amoore@alamomg.com (This might be outdated).
+* Community Manager - Addie Higgins - ahiggins@alamomg.com
 
 * Phone : 210-485-4088
 

@@ -45,6 +45,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Wed 12 Jul 2023 : Updated Alamo Management contact info with new Community Manager's name/email.
  * Mon 27 Feb 2023 : Gehan emergency contacts added
  * Wed 08 Feb 2023 : HVAC regular cleaning
  * Thu 29 Dec 2022 : AT&T Fiber internet is available now for some areas.
