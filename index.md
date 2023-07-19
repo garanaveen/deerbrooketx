@@ -2,10 +2,11 @@
 FAQs for Deerbrooke Community in Leander, TX
    * [New Home Checklist](./newhomechecklist.md)
       * [Smart Home](./smarthome.md)
-   * [Home Maintenence]
+   * [Home Maintenence](./homemaintenance)
       * [WaterLeak](./homemaintenance/waterleak.md)
       * [HVAC](./homemaintenance/hvac.md)
       * [Builder based emergency contacts](./homemaintenance/builder-emergency-contacts.md)
+      * [Handy Man Crowdsourced List](./homemaintenance/Handy Man Crowdsourced List.pdf)
    * Water Softner - The city water is very hard and deinitely need to install water softner.
    * [Home's tax assessment](./homeassessment.md)
       * [Online Protest and Express review](./protestonline.md)
