@@ -3,7 +3,7 @@ Start with a bank where you hold account. Call them and ask if anyone is availab
 
 Some of the other services where you can get notarized are,
  * UPS
- * Leander Court (Near to HEB). - Free of cost. Might have to call them and ask for availability.
+ * Leander Municipal Court [Google Maps - 201 N Brushy St, Leander, TX 78641](https://maps.app.goo.gl/Fb9kSF7UUXpeWCfc6). - Free of cost. Walk ins are allowed but might be best to call them before hand and ask for availability.
  * WellsFargo - Free. Don't need to hold an account. Call up and check for availability.
  * Chase Bank - Free
 
@@ -13,6 +13,8 @@ Reach out to them on facebook well in advance.
 
  * Oggie Ott [Facebook Link](https://www.facebook.com/groups/2558315710915805/user/608456688/) - Free if you have a couple of documents to notarize. Reach out well in advance on facebook.
  * Molly Beard Taylor [Facebook Link](https://www.facebook.com/groups/2558315710915805/user/1253965493)
+
+
 
 
 PS : Know other options? Let me know.
