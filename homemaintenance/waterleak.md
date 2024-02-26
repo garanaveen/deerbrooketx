@@ -1,4 +1,4 @@
-If you think you water usage is high, water leak is a possibility.
+If you think your water usage is high, water leak is a possibility.
 
 How to detect a water leak? 
 ----------------------------
