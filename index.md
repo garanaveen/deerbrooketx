@@ -30,7 +30,7 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Social Media](./community/socialmedia.md)
       * [Walking Trail](./walkingtrail.md)
       * [Notary services](./notary.md)
-   * [New Resident Checklist](./newresidentchecklist.md)
+   * [New Texas Resident Checklist](./newresidentchecklist.md)
    * [Snakes](./snakes.md)
    * [Savings](./savings.md)
 
@@ -46,6 +46,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Thu 2 May 2024 : Updated community manager email.
  * Mon 31 Jul 2023 : How to place an order for pool access fob.
  * Wed 12 Jul 2023 : Updated Alamo Management contact info with new Community Manager's name/email.
  * Mon 27 Feb 2023 : Gehan emergency contacts added

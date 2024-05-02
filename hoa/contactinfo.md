@@ -11,9 +11,8 @@ info@alamomg.com
 M - F: 8am - 5pm
 ```
 
-* Community Manager - Ronn Perez - rperez@alamomg.com (as of JUN2023)
 
-* Community Manager - Addie Higgins - ahiggins@alamomg.com
+* Community Manager - Geraldas Sviesa - gsviesa@alamomg.com (as of MAY2024)
 
 * Phone : 210-485-4088
 
