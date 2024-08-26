@@ -7,7 +7,6 @@ I will keep updating this list as and when contacts are shared in the community.
 Russell Electric (Thomas Russell) 512-560-6123 russellelectric.tx@gmail.com (#3068)
 Jose +1 (512) 645-5444 (#3260)
 
-
 ### Moving
 Tyler (Haul) +1 (405) 541-3333 ((Referred by Shiva Devalokam : #endingin #6574))
 

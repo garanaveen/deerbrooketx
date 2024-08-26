@@ -22,6 +22,7 @@ FAQs for Deerbrooke Community in Leander, TX
    * [HOA](https://www.alamomanagementgroup.com/)
       * [Contact Info](./hoa/contactinfo.md)
       * [Pool and Gym access](./hoa/amenityaccess.md)
+      * [Amenity Center](./hoa/amenitycenter.md)
    * Community Info
       * [Community official website](https://deerbrooketx.com/)
       * [Utilities](https://deerbrooketx.com/wp-content/uploads/2021/03/Deerbrooke-Resident-Information.pdf)
@@ -46,6 +47,8 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+
+ * Mon 26 Aug 2024 : Added entry for Amenity center access. (Work in progress)
  * Thu 2 May 2024 : Updated community manager email.
  * Mon 31 Jul 2023 : How to place an order for pool access fob.
  * Wed 12 Jul 2023 : Updated Alamo Management contact info with new Community Manager's name/email.
