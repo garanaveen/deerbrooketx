@@ -19,6 +19,9 @@ New residents are required to obtain a Texas driver license from the Texas Depar
 
 You first need to get your vehicles registered in Texas before you can get your drivers license. Plan accordingly.
 
+email : customerservicedl@dps.texas.gov
+
+
 ## Another good reason to get your Texas Drivers License sooner than later is, you can't file for HomeStead exemption without a Texas DL.
 
 ___
