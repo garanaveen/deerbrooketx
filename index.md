@@ -17,7 +17,7 @@ FAQs for Deerbrooke Community in Leander, TX
    * [Water Conservation Details](./waterconservation.md) (How frequently can I water my lawn?)
        * [LeanderTx website](https://www.leandertx.gov/waterplan)
    * [Vehicle Registration/Titles](./countyoffice.md)
-   * [Drivers License](./countyoffice.md)
+   * [Drivers License](./dl-checklist.md)
    * [Vehicle Inspection](./vehicleinspections.md)
    * [HOA](https://www.alamomanagementgroup.com/)
       * [Contact Info](./hoa/contactinfo.md)
@@ -48,6 +48,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 Recent changes log,
 
 
+ * Fri 27 Sep 2024 : Added checklist for Drivers License renewal.
  * Mon 26 Aug 2024 : Added entry for Amenity center access. (Work in progress)
  * Thu 2 May 2024 : Updated community manager email.
  * Mon 31 Jul 2023 : How to place an order for pool access fob.
