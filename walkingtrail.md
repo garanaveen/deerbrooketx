@@ -1,6 +1,6 @@
 Walking Trail Location,
 
-Entry from Sage Ranch Dr [Google Maps](https://goo.gl/maps/HGXCL4tScfg5urFv9)
+Entry from Sage Ranch Dr [Google Maps](https://maps.app.goo.gl/aLWKSbfjqn7t9HtW7)
 
-Other end of the trail on Deer Rim Rd [Google Maps](https://goo.gl/maps/tF9oMg1DSoVmEsK37)
+Other end of the trail on Deer Rim Rd [Google Maps](https://maps.app.goo.gl/HbFYSZpb9ZksdCht7)
 
