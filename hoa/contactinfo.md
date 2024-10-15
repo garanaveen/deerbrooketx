@@ -12,9 +12,9 @@ M - F: 8am - 5pm
 ```
 
 
-* Community Manager - Geraldas Sviesa - gsviesa@alamomg.com (as of MAY2024)
+* Community Manager - Juan Perez - jperez@alamomg.com (as of OCT2024)
 
-* Phone : 210-485-4088
+* Phone : 512-877-7770
 
 * Fee Waiver Request (If you forgot to pay the HOA fee and you were charged late fee)
 delinquency@alamomg.com
