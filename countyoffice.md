@@ -13,8 +13,6 @@ If you have auto/car loan, then this transfer of title happens behind the scenes
 Be sure to take a ticket by registering at the kiosk when you enter to reserve your spot.
 
 ___
-
-___
 ### County Office Locations (For registration and change of titles from other states)
 
 Cedar Park County Office,

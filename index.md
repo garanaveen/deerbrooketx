@@ -48,6 +48,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 Recent changes log,
 
 
+ * Tue 15 Oct 2024 :Updated community manager contact.
  * Fri 27 Sep 2024 : Added checklist for Drivers License renewal.
  * Mon 26 Aug 2024 : Added entry for Amenity center access. (Work in progress)
  * Thu 2 May 2024 : Updated community manager email.
