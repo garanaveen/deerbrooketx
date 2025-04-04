@@ -7,14 +7,11 @@ Some of the other services where you can get notarized are,
  * Chase Bank - Free (If you have an account with them?)
  * UPS - Charges a typical fee and need to take an appointment.
 
-
-
 If you are looking for a quick notary services right here in the community, here are few options that I know of.
-Reach out to them on facebook well in advance.
 
- * Nitin [408-708-6285](tel:+1408708628). Budget friendly.
- * Oggie Ott [Facebook Link](https://www.facebook.com/groups/2558315710915805/user/608456688/) - Free if you have a couple of documents to notarize. Reach out well in advance on facebook.
+ * Nitin [408-708-6285](tel:+1408708628). Responsive and Budget friendly.
  * Molly Beard Taylor [Facebook Link](https://www.facebook.com/groups/2558315710915805/user/1253965493). [432-288-3240](tel:+14322883240). Charges typical fee.
+ * Oggie Ott [Facebook Link](https://www.facebook.com/groups/2558315710915805/user/608456688/) - Free if you have a couple of documents to notarize. Reach out well in advance on facebook.
 
 
 PS : Know other options? Let me know.
