@@ -47,7 +47,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
-
+ * Wed 18 Jun 2025 : Add update on Amenity center reservations
  * Thu 03 Apr 2025 : Added a contact of another notary from Deerbrooke
  * Tue 15 Oct 2024 :Updated community manager contact.
  * Fri 27 Sep 2024 : Added checklist for Drivers License renewal.
