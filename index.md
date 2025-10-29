@@ -1,5 +1,7 @@
 # Deerbrooke - FAQs on Deerbrooke community in Leander, TX
 FAQs for Deerbrooke Community in Leander, TX
+
+   * [Deerbrooke Community Job Referrals](./jobreferrals.md)
    * [New Home Checklist](./newhomechecklist.md)
       * [Smart Home](./smarthome.md)
    * [Home Maintenence](./homemaintenance)
@@ -47,6 +49,7 @@ Even better would be to make the changes yourself and create a pull request. [Ho
 
 Recent changes log,
 
+ * Wed Oct 29 2025 Deerbrooke Community Job Referrals added.
  * Wed 18 Jun 2025 : Add update on Amenity center reservations
  * Thu 03 Apr 2025 : Added a contact of another notary from Deerbrooke
  * Tue 15 Oct 2024 :Updated community manager contact.
@@ -64,4 +67,5 @@ Recent changes log,
  * Fri 29 Apr 2022 : Added Atmos Gas Leak emergency phone number on the Home Page under Utilities.
  * Tue 12 Apr 2022 : Added [Online Protest and Express review](./protestonline.md) details.
  * Mon 11 Apr 2022 : Added Home appraisal [Home tax assessment](./homeassessment.md) and Homestead exemption [Homestead exemption](./homesteadexemption.md) details.
+
 
