@@ -14,7 +14,7 @@ FAQs for Deerbrooke Community in Leander, TX
       * [Online Protest and Express review](./protestonline.md)
    * [HomeStead exemption](./homesteadexemption.md)
    * Waste Collection - Solid waste is collected every monday and recycling is collected every other monday.
-       * [Pickup Schedule - pdf](https://www.leandertx.gov/sites/default/files/fileattachments/utilities/page/459/acdi_collections_2022.pdf)
+       * [Trash Pickup Schedule - pdf](https://www.leandertx.gov/DocumentCenter/View/5914/2026-Collection-Schedule-PDF)
        * [RecyclingInfo](https://alittlemore.green/myths-rumors-confusion-recycling-in-austin/) (What exactly goes in to you recycling bin? - Austin specific)
    * [Water Conservation Details](./waterconservation.md) (How frequently can I water my lawn?)
        * [LeanderTx website](https://www.leandertx.gov/waterplan)
